@@ -6,7 +6,7 @@ from tweepy import OAuthHandler
 
 CONSUMER_KEY = 'YourKeyHere'
 CONSUMER_SECRET = 'YourKeyHere'
-OAUTH_TOKEN = 'YourKeyHere-vMHsKwAm3NXlgi3TCUQbANKtX5z53aebTQb7KVPC'
+OAUTH_TOKEN = 'YourKeyHere'
 OAUTH_TOKEN_SECRET = 'YourKeyHere'
 
 auth = OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
