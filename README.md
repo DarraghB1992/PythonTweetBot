@@ -11,3 +11,4 @@ A python twitter-bot which tweets from a .txt file at a user set time
 * The bot tweets line by line so take this into account when you edit your tweets
 * Run by navigating to the folder and running the : **python tweet_bot.py tweet_bot.txt** command
 * Sit back and watch the tweets go :D
+* Check out Twitters best practises so as not too get banned :D https://support.twitter.com/articles/68916
