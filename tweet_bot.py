@@ -21,4 +21,4 @@ filename.close()
 # time.sleep determines the delay between tweets in seconds , be aware if you tweet too often twitter will kick you out
 for line in f:
     api.update_status(status=line)
-    time.sleep(240)ls
+    time.sleep(240)
