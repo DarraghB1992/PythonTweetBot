@@ -4,7 +4,8 @@ Python Tweet Bot
 A python twitter-bot which tweets from a .txt file at a user set time
 
 **How To Use **
---------------
+
+* Intall Tweepy V.3.4 **pip install tweepy==3.4**
 * Add your Twitter API keys in the appropriate section
 * Set the delay in seconds inside the brackets in time.sleep()
 * Be careful not too tweet too often or twitter will lock you out
